@@ -39,7 +39,7 @@ Automatic grid box generation from pocket centroids
 Ligand and receptor preparation (PDB → PDBQT)
 Docked pose visualisation
 
-🧠 Technologies Used
+Technologies Used
 Python: RDKit, NumPy, Pandas, Scikit-learn, Py3Dmol
 Structural Bioinformatics: Fpocket, PDB parsing
 Cheminformatics: Open Babel, RDKit
